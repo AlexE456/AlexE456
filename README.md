@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Alex!
+
+I'm a sophmore at Boise State University and am studying computer science and graphic design.
+
 <!--
 **AlexE456/AlexE456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
