@@ -1,4 +1,4 @@
-## your gonna get stabbed one day
+## youre gonna get stabbed one day
 
 This is my Github page by AlexE456!
 
